@@ -1,4 +1,4 @@
-# Gold-Dataset-for-the-Evaluation-of-Bangla-Stemmer
+# Gold Dataset for the Evaluation of Bangla Stemmer
 
 ```
 া -> ε;   সবার জন্য নিরাপদ পানি সরবরাহ করা আমাদের কাজ।

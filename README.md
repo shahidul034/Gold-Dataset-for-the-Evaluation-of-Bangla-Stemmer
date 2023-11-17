@@ -226,3 +226,7 @@
 রাশি-> ε #         বর্ষাকালে যেদিকে চোখ যায় শুধুই জলরাশি।
 ান->  ε #       বাংলাদেশ থেকে আগত হাজ্বী সাহেবান ১২৭১৫৭।
 ```
+If you use this dataset, please cite it as below
+```
+T. Ahmed, S. Hossain, M. S. Salim, A. Anjum and K. M. Azharul Hasan, "Gold Dataset for the Evaluation of Bangla Stemmer," 2021 5th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2021, pp. 1-6, doi: 10.1109/EICT54103.2021.9733662.
+```
